@@ -1,6 +1,6 @@
 Привет!
-Меня зовут Евгений Посадсков, я Data Scientist | ML Engineer с 5 годами опыта работы.
-➤ Стек: SQL, Python, Pandas, NumPy, Scikit-learn, CatBoost, PyTorch, Transformers, Tableau, Fine BI, DBeaver, Vertica, Matplotlib, Seaborn, DVC, Git, Jira, Confluence, Linux.
+Меня зовут Евгений Посадсков, я Data Scientist | ML Engineer с 5+ годами опыта работы.
+➤ Стек: PyTorch, Transformers, CatBoost, Pandas, NumPy, Scikit-learn, SQL, Tableau, Fine BI, DBeaver, Vertica, Matplotlib, Seaborn, DVC, Git, Jira, Confluence, Linux.
 
 ➤ Ключевые компетенции:
 - Разработка рекомендательных систем (user-to-item, item-to-item) и персонализированных моделей.
