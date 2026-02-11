@@ -1,5 +1,5 @@
 Привет!
-Меня зовут Евгений Посадсков, я Data Scientist | ML Engineer с 5,5+ годами опыта работы.
+Меня зовут Евгений Посадсков, я Data Scientist | ML Engineer с 5 годами опыта работы.
 ➤ Стек: SQL, Python, Pandas, NumPy, Scikit-learn, CatBoost, PyTorch, Transformers, Tableau, Fine BI, DBeaver, Vertica, Matplotlib, Seaborn, DVC, Git, Jira, Confluence, Linux.
 
 ➤ Ключевые компетенции:
@@ -16,22 +16,3 @@
 +7 (929) 054-52-22
 telegram: @posadskov_ev
 esposadskov@gmail.com
-
-
-
-## Hi there 👋
-
-<!--
-**PosadskovEvS/PosadskovEvS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
