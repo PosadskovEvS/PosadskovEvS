@@ -1,13 +1,14 @@
 Привет!
 Меня зовут Евгений Посадсков, я Data Scientist | ML Engineer с 5+ годами опыта работы.
-➤ Стек: PyTorch, Transformers, CatBoost, Pandas, NumPy, Scikit-learn, SQL, Tableau, Fine BI, DBeaver, Vertica, Matplotlib, Seaborn, DVC, Git, Jira, Confluence, Linux.
+➤ Стек: PyTorch, Transformers, CatBoost, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SQL, Tableau, Fine BI, DBeaver, Vertica, Git, DVC, Jira, Confluence, Linux.
 
-➤ Ключевые компетенции:
-- Разработка рекомендательных систем (user-to-item, item-to-item) и персонализированных моделей.
-- Архитектуры трансформеров и attention для моделирования предпочтений.
+➤ Ключевые компетенции: RecSys, Classic ML, NLP, RAG, CV. 
+- Разработка персонализированных рекомендательных систем и ранжирующих моделей.
+- Разработка RAG-систем
+- Архитектура трансформеров 
 - Полный цикл ML-проектов: постановка задач, обучение, валидация, вывод в прод.
 - Автоматизация управленческой отчётности с ИИ, факторный анализ и расчёт KPI.
-- Работа с данными: интеграция, подготовка для ML, Data Lake, PostgreSQL/Vertica, витрины данных.
+- Работа с данными: разработка витрин данных, подготовка для ML, Data Lake, PostgreSQL/Vertica, витрины данных.
 - Создание и поддержка дашбордов, контроль качества данных и метрик.
  
 На данный момент я открыт к новым предложениям о работе и буду рад рассказать подробнее о своем опыте и компетенциях!
